@@ -115,7 +115,7 @@ nav ul .icon:hover a{
     color: var(--light-green-color);
 }
 .home{
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url(./image/home.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)),url(home.jpg);
     background-size: cover;
     min-height: 90vh;
     display: flex;
@@ -534,42 +534,42 @@ nav ul .icon:hover a{
     opacity: 1;
 }
 .projects .project-item.p-1{
-    background-image: url('./image/p1.jpg');
+    background-image: url('./p1.jpg');
     background-size: 100% 100%;
 
 }
 .projects .project-item.p-2{
-    background-image: url('./image/p2.jpg');
+    background-image: url('./p2.jpg');
     background-size: 100% 100%;
 
 }
 .projects .project-item.p-3{
-    background-image: url('./image/p3.jpg');
+    background-image: url('./p3.jpg');
     background-size: 100% 100%;
 
 }
 .projects .project-item.p-4{
-    background-image: url('./image/p4.jpg');
+    background-image: url('./p4.jpg');
     background-size: 100% 100%;
 
 }
 .projects .project-item.p-5{
-    background-image: url('./image/p5.jpg');
+    background-image: url('./p5.jpg');
     background-size: 100% 100%;
 
 }
 .projects .project-item.p-6{
-    background-image: url('./image/p6.jpg');
+    background-image: url('./p6.jpg');
     background-size: 100% 100%;
 
 }
 .projects .project-item.p-7{
-    background-image: url('./image/p7.jpg');
+    background-image: url('./p7.jpg');
     background-size: 100% 100%;
 
 }
 .projects .project-item.p-8{
-    background-image: url('./image/p8.jpg');
+    background-image: url('./p8.jpg');
     background-size: 100% 100%;
 
 }
